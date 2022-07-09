@@ -4,6 +4,6 @@ config file for qtile window manager
 
 
 1 : first of all add chatic aur reposetory for archlinux 
-'''bash
+'''dorod
 sudo pacman -S 
 '''

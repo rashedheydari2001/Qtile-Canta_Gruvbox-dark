@@ -67,7 +67,7 @@ nano .config/qtile/config.py
 ```
 go to line number 174 and remove the battery widget
 <br>
-8 : shortcut 
+7 : shortcut 
 if you don't like my shortcut so change it open up this config file:
 ```
 nano .config/qtile/config.py

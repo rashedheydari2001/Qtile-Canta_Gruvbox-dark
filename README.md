@@ -26,7 +26,7 @@ yay -S vazir-code-fonts vazirmatn-fonts
 ```
 3 : install config file
 ```
-git clone https://github.com/rashedheydari2001/Qtile-Canta_Gruvbox-dark.git && cd Qtile-Canta_Gruvbox-dark/.config && mv fontconfig alacritty picom qtile ~/.config && chmod +x ~/.config/qtile/autostart.sh && cd .. && cd etc && sudo mv -f environment /etc && sudo fc-cache -rsv && fc-cache -vf && sudo fc-cache -vf
+git clone https://github.com/rashedheydari2001/Qtile-Canta_Gruvbox-dark.git && cd Qtile-Canta_Gruvbox-dark/.config && mv -f fontconfig alacritty picom qtile ~/.config && chmod +x ~/.config/qtile/autostart.sh && cd .. && cd etc && sudo mv -f environment /etc && sudo fc-cache -rsv && fc-cache -vf && sudo fc-cache -vf
 ```
 4 : install theme dependency and theme and icon theme
 theme dependency from arch repo:

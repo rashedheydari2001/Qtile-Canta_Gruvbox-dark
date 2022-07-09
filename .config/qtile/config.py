@@ -181,7 +181,7 @@ screens = [
                     fontsize=16,
                 ),
             ],
-            background=Canta_dark["Hide Background"],
+            background=Canta_dark["View Background"],
             size=24,
             opacity=0.8,
         ),

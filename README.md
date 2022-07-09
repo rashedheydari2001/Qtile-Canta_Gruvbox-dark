@@ -45,9 +45,16 @@ download canta kvantum theme from this link: https://store.kde.org/p/1306414
 <br>
 extract archive file and open up kvantum click on install and select your folder inside the folder you extract it and select canta dark and click on use this theme 
 <br>
+5 : set up theme and font
+<br>
 open up lxappearance and select canta dark for theme and dmz light for cursor theme and select papirus dark for icon theme and click on apply 
 <br>
 open your qt5ct for theme in main page select kvantum dark for qt app font select this value:
 ![Screenshot from 2022-07-09 19-42-19](https://user-images.githubusercontent.com/81459372/178111662-39491635-a73b-4e7c-b426-5d17bdc2604a.png)
 and for icon theme select papirus-dark
 <br>
+6 : Keyboard layout 
+go to  this config file 
+```
+nano .config/qtile/autostart.sh
+```

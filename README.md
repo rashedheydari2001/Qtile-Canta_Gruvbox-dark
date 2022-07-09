@@ -60,22 +60,22 @@ nano .config/qtile/autostart.sh
 ```
 if you don't need layout remove line number one
 <br>
-if you need layout set up your layout like this us,uk
-7 : if you have a pc and you don't have a battery disable battery widget from this config file
-```
-nano .config/qtile/config,py
-```
-go to line number 174 and remove battery widget
-<br>
-8 : shurtcut 
-if you don't like my shurtcut so change it openup this config file:
+if you need a layout set up your layout like this us,uk
+7 : if you have a pc and you don't have a battery disable the battery widget from this config file
 ```
 nano .config/qtile/config.py
 ```
-go to line number 13 you can see custom shurtcuts
+go to line number 174 and remove the battery widget
+<br>
+8 : shortcut 
+if you don't like my shortcut so change it open up this config file:
+```
+nano .config/qtile/config.py
+```
+go to line number 13 you can see custom shortcuts
 mod4 or mod = superkey or windows key, mod1 = alt, shift = shift
 <br>
-example shurtcut 
+example shortcut 
 <br>
 Key[mod, othermod if you need it like shift], 'keyboard char', lazy.spawn('Command'), desc="comment"),
 <br>

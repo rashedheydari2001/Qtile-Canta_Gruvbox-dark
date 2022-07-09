@@ -61,13 +61,14 @@ nano .config/qtile/autostart.sh
 if you don't need layout remove line number one
 <br>
 if you need a layout set up your layout like this us,uk
+<br>
 7 : if you have a pc and you don't have a battery disable the battery widget from this config file
 ```
 nano .config/qtile/config.py
 ```
 go to line number 174 and remove the battery widget
 <br>
-7 : shortcut 
+8 : shortcut 
 if you don't like my shortcut so change it open up this config file:
 ```
 nano .config/qtile/config.py

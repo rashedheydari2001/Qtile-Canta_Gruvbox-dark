@@ -11,7 +11,7 @@ mod = "mod4"
 terminal = guess_terminal()
 
 keys = [
-    #custom shurtcuts
+    #custom shortcuts
     Key([mod], "w", lazy.spawn('firefox'), desc="Launch web browser"),
     Key([mod], "z", lazy.spawn('librewolf'), desc="Launch private web browser"),
     Key([mod], "d", lazy.spawn("dmenu_run -fn Vazirmatn:size=9")),

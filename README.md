@@ -42,6 +42,7 @@ icon theme from arch repo:
 sudo pacman -S papirus-icon-theme xcursor-vanilla-dmz
 ```
 download canta kvantum theme from this link: https://store.kde.org/p/1306414
+<br>
 extract archive file and open up kvantum click on install and select your folder inside the folder you extract it
 and select canta dark and click on use this theme 
 open up lxappearance and select canta dark for theme and dmz light for cursor theme and select papirus dark for icon theme and click on apply 
